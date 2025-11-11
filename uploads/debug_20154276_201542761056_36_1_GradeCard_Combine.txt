@@ -1,0 +1,150 @@
+Student Name : PRATHAMESH SADASHIV MANE
+Mother Name : MANISHA Regd. No. : 20154276
+Programme : BACHELOR OF TECHNOLOGY Examination : Summer-2025
+L
+Department : ELECTRONICS AND TELE-COMMUNICATION ENGINEERING
+A
+Course Course Earned
+Course Name Grade
+Code Credits Credits
+Semester : III N
+EX2301 Values and Ethics for Engineers 2 2 A
+EX2302 Mathematics - III 3 3 B+
+EX2303 Analog Circuits 4 4 D
+EX2304 Electronic Devices and Materials 4 4 B
+O
+EX2305 Digital Electronics 4 4 A
+EX2306 Analog Circuits Lab 1 1 C
+EX2307 Digital Electronics Lab 1 1 C
+EX2308 Industrial Training 1 1 A
+Semester : IV I
+EX2401 Transducers and Measurement 3 3 B
+S
+EX2402* Signals and Systems 3 3 B
+EX2403 Analog Communication 3 3 C
+EX2404* Microcontroller and Interfacing 3 3 B+
+I
+EX2405* Network Analysis and Synthesis 3 3 A
+EX2406 Transducers and MeasuVrement Lab 1 1 A
+EX2407 Analog Communication Lab 1 1 A
+EX2408* Microcontroller and Interfacing Lab 1 1 A+
+EX2409 Signal, Network Analysis and Synthesis Lab 1 1 B+
+EX2410 EnvironmentOal Science 0 0 PP
+EX2411 Technical Presentation 1 1 A
+CC201 NSS 0 0 PP
+Previous Semester Performance Current Semester Performance Cummulative Performance
+R
+Credits EGP SGPA Credits EGP SGPA Credits EGP CGPA
+20 147 7.35 20 156 7.80 77 631 8.19
+P
+Remarks : PASS
+Result Date: Grade Card No. :242510040004
+Course
+Code | Course Name | Course
+Credits | L
+Earned
+Credits | Grade
+Semester : III |  |  |  | 
+EX2301
+EX2302
+EX2303
+EX2304
+EX2305
+EX2306
+EX2307
+EX2308 | N
+Values and Ethics for Engineers
+Mathematics - III
+Analog Circuits
+Electronic Devices and Materials
+Digital Electronics
+Analog Circuits Lab
+Digital Electronics Lab
+Industrial Training | A
+2
+3
+4
+4
+4
+1
+1
+1 | 2
+3
+4
+4
+4
+1
+1
+1 | A
+B+
+D
+B
+A
+C
+C
+A
+O
+Semester : IV |  |  |  | 
+EX2401
+EX2402*
+EX2403
+EX2404*
+EX2405*
+EX2406
+EX2407
+EX2408*
+EX2409
+EX2410
+EX2411
+CC201 | I
+Transducers and Measurement
+S
+Signals and Systems
+Analog Communication
+Microcontroller and Interfacing
+I
+Network Analysis and Synthesis
+Transducers and MeasuVrement Lab
+Analog Communication Lab
+Microcontroller and Interfacing Lab
+Signal, Network Analysis and Synthesis Lab
+Environmental Science
+Technical Presentation
+NSS | 3
+3
+3
+3
+3
+1
+1
+1
+1
+0
+1
+0 | 3
+3
+3
+3
+3
+1
+1
+1
+1
+0
+1
+0 | B
+B
+C
+B+
+A
+A
+A
+A+
+B+
+PP
+A
+PP
+O
+Previous Semester Performance |  |  | Current Semester Performance |  |  | Cummulative Performance |  | 
+Credits | EGP | SGPA | Credits | EGP | SGPA | Credits | EGP | CGPA
+20 | 147 | 7.35 | 20 | 156 | 7.80 | 77 | 631 | 8.19

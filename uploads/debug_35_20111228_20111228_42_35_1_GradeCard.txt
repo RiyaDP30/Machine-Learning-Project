@@ -1,0 +1,67 @@
+Government College of Engineering Karad
+Vidyanagar, Dist. Satara - 415124, MAHARASHTRA (INDIA)
+PROVISIONAL GRADE CARD
+L
+Student Name : GAMBHIRE AMOL DNYANDEO Regd. No. : 20111228
+A
+Mother Name : SULOCHANA Semester : VII
+Programme : BACHELOR OF TECHNOLOGY Examination : Makeup Winter-2024
+N
+Department : CIVIL ENGINEERING
+Course Earned
+Sr.No. Course Code Course Name Grade
+Credits Credits
+O
+1 CE2701 Construction Management 3 3 C
+2 CE2712 Elective-III (Remote Sensing and GIS) 3 3 B
+I
+3 CE2733 Elective-IV (Green Building and Sustainability) 3 3 C
+S
+4 CE2704 Design of RCC and pre-stressed Concrete structures 3 3 D
+I
+5 CE2705 Hydraulic Structures 3 3 C
+V
+Open Elective-IV Lab (Data Science for Civil
+6 CE2726 1 1 B
+Engineering Lab)
+7 CE2717 OElective – III Lab (Remote Sensing and GIS Lab) 1 1 B+
+8 CE2708 Structural design and drawing II 2 2 B+
+9 CER2709 Seminar 1 1 B+
+10 CE2710 Industrial Training 1 1 C
+P
+11 CE2721* Open Elective-IV (Data Science for Civil Engineering) 3 3 D
+12 CE2724 AIoT Development Lab 0 0 PP
+Remarks : PASS
+Current Semester Performance Cummulative Performance
+Credits EGP SGPA Credits EGP CGPA
+24 150 6.25 142 944 6.65
+Grade Card No. :
+Result Date:
+Sr.No. | Course Code | N
+Course Name | Course
+Credits | Earned
+Credits | Grade
+1 | CE2701 | Construction Management | 3 | 3 | C
+2 | CE2712 | O
+Elective-III (Remote Sensing and GIS) | 3 | 3 | B
+3 | CE2733 | Elective-IV (Green Building and Sustainability) | 3 | 3 | C
+4 | CE2704 | I
+Design of RCC and pre-stressed Concrete structures | 3 | 3 | D
+5 | CE2705 | S
+Hydraulic Structures | 3 | 3 | C
+6 | CE2726 | I
+Open Elective-IV Lab (Data Science for Civil
+Engineering Lab) | 1 | 1 | B
+7 | CE2717 | V
+Elective – III Lab (Remote Sensing and GIS Lab) | 1 | 1 | B+
+8 | CE2708 | Structural design and drawing II | 2 | 2 | B+
+9 | CE2709 | O
+Seminar | 1 | 1 | B+
+10 | CE2710 | Industrial Training | 1 | 1 | C
+11 | CE2721* | R
+Open Elective-IV (Data Science for Civil Engineering) | 3 | 3 | D
+12 | P
+CE2724 | AIoT Development Lab | 0 | 0 | PP
+Current Semester Performance |  |  | Cummulative Performance |  | 
+Credits | EGP | SGPA | Credits | EGP | CGPA
+24 | 150 | 6.25 | 142 | 944 | 6.65

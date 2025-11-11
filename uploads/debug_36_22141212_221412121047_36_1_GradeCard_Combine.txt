@@ -1,0 +1,144 @@
+Government College of Engineering Karad
+Vidyanagar, Dist. Satara - 415124, MAHARASHTRA (INDIA)
+PROVISIONAL GRADE CARD
+L
+Student Name : KUMBHAR KULDIP AJIT
+A
+Mother Name : RUPALI Regd. No. : 22141212
+Programme : BACHELOR OF TECHNOLOGY Examination : Summer-2025
+Department : INFORMATION TECHNOLOGY N
+Course Course Earned
+Course Name Grade
+Code Credits Credits
+O
+Semester : III
+IT2301 Values and Ethics 2 2 D
+IT2302* Mathematics - III 4 4 D
+IT2303* Digital Systems 4 4 D
+IT2304 Computer Organization and Architecture I 3 3 D
+IT2305* Data Structure and Algorithms 3 3 C
+S
+IT2306 Digital Systems Lab 1 1 B+
+IT2307 Data Structure and Algorithms Lab 2 2 B+
+IT2308 Industrial Training 1 1 A
+I
+Semester : IV
+IT2401* Microprocessor and MicVrocontroller 3 3 C
+IT2402* Discrete Mathematics 4 4 D
+IT2403* System Software and Operating Systems 3 3 D
+IT2404* Database Management System 3 3 C
+O
+IT2405* Object Oriented Programming 3 3 B
+IT2406 Microprocessor and Microcontroller Lab 1 1 B+
+IT2407 System Software and Operating Systems Lab 1 1 B
+IT2408 Database Management System Lab 1 1 C
+IT2409 ObjeRct Oriented Programming Lab 1 1 C
+IT2410 Environmental Science 0 0 PP
+CC201 NSS 0 0 PP
+PreviouPs Semester Performance Current Semester Performance Cummulative Performance
+Credits EGP SGPA Credits EGP SGPA Credits EGP CGPA
+20 116 5.80 20 119 5.95 77 436 5.66
+Remarks : PASS
+Result Date: Grade Card No. :
+Course
+Code | N
+Course Name | Course
+Credits | Earned
+Credits | Grade
+Semester : III |  |  |  | 
+IT2301
+IT2302*
+IT2303*
+IT2304
+IT2305*
+IT2306
+IT2307
+IT2308 | O
+Values and Ethics
+Mathematics - III
+Digital Systems
+Computer Organization and Architecture I
+Data Structure and Algorithms
+Digital Systems Lab
+Data Structure and Algorithms Lab
+Industrial Training | 2
+4
+4
+3
+3
+1
+2
+1 | 2
+4
+4
+3
+3
+1
+2
+1 | D
+D
+D
+D
+C
+B+
+B+
+A
+S
+Semester : IV |  |  |  | 
+IT2401*
+IT2402*
+IT2403*
+IT2404*
+IT2405*
+IT2406
+IT2407
+IT2408
+IT2409
+IT2410
+CC201 | I
+Microprocessor and MicVrocontroller
+Discrete Mathematics
+System Software and Operating Systems
+Database Management System
+O
+Object Oriented Programming
+Microprocessor and Microcontroller Lab
+System Software and Operating Systems Lab
+Database Management System Lab
+Object Oriented Programming Lab
+Environmental Science
+NSS | 3
+4
+3
+3
+3
+1
+1
+1
+1
+0
+0 | 3
+4
+3
+3
+3
+1
+1
+1
+1
+0
+0 | C
+D
+D
+C
+B
+B+
+B
+C
+C
+PP
+PP
+R
+Previous Semester Performance |  |  | Current Semester Performance |  |  | Cummulative Performance |  | 
+Credits | EGP | SGPA | Credits | EGP | SGPA | Credits | EGP | CGPA
+20 | 116 | 5.80 | 20 | 119 | 5.95 | 77 | 436 | 5.66

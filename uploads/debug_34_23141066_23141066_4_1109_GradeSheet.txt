@@ -1,0 +1,84 @@
+Government College of Engineering Karad
+Vidyanagar, Dist. Satara, -415124, MAHARASHTRA ( INDIA )
+PROVISIONAL GRADE CARD
+L
+Student's Name:KUMBHAR PRANAV PRAKASH Registration No:23141066
+A
+Mother's Name :SAVITA ABC ID :771426058544
+Programme :BACHELOR OF TECHNOLOGY Semester :III
+Department :INFORMATION TECHNOLOGY Examination :Winter-2024
+N
+MSE ISE ESE TOTAL
+Course Course Earned
+Course Name Grade
+Code MAX SEC MAX SEC MAX MIN SEC MAX MIN SEC Credit Credit
+O
+EE3304 MDM I DC Machines and 20 12 20 16 60 20 28 100 33 56 2 2 B
+Transformers)
+EX3315 OE I (Digital Electronics) 20 13 20 16 60 24 33 100 40 62 3 3 C+
+EX3310 OE I (Digital Electronics - - 25 23I25 10 21 50 20 44 1 1 A
+Laboratory)
+S
+IT3301 Probability and Random 20 11 20 14 60 24 30 100 40 55 2 2 C
+Process
+IT3302 Design and Analysis of 20 2 20 17 60 24 42 100 40 61 3 3 B
+Algorithms I
+IT3303 Discrete Mathematics 2V0 17 20 15 60 24 26 100 40 58 3 3 B
+IT3304 Computer Organization and 20 9 20 14 60 24 28 100 40 51 2 2 C
+Architecture
+IT3307 Universal Human Valu O es - - 50 38 - - - 50 20 38 2 2 A
+IT3308 Economics for Engineer - - 50 42 - - - 50 20 42 2 2 A
+IT3309 Design and Analysis of - - 25 20 - - - 25 10 20 1 1 A
+Algorithms Lab
+IT3310 ProgramminRg Lab-I - - 25 22 - - - 25 10 22 1 1 A
+Remarks : PASS
+PCurrent Semester Performance Cumulative Performance
+Total Total
+Total Max Total Max
+Marks Percentage Credits EGP SGPA Marks Percentage Credits EGP CGPA
+Marks Marks
+Obtained Obtained
+509 800 63.90 22 157 7.14 1474 2400 53.30 66 427 6.47
+Note: Percentage are calculated as per formula GPA= (% of marks X 0.1) + 0.75
+Grade Card No. :
+Result Date :
+Course
+Code | Course Name | MSE |  | ISE |  | ESE |  |  | TOTAL |  |  | Course
+Credit | Earned
+Credit | Grade
+ |  | MAX | SEC | MAX | SEC | MAX | MIN | SEC | MAX | N
+MIN | SEC |  |  | 
+EE3304 | MDM I DC Machines and
+Transformers) | 20 | 12 | 20 | 16 | 60 | 20 | 28 | 100 | 33 | 56 | 2 | 2 | B
+EX3315 | OE I (Digital Electronics) | 20 | 13 | 20 | 16 | 60 | 24 | 33 | 100 | 40 | 62 | 3 | 3 | C+
+EX3310 | OE I (Digital Electronics
+Laboratory) | - | - | 25 | 23 | 25 | 10 | O
+21 | 50 | 20 | 44 | 1 | 1 | A
+IT3301 | Probability and Random
+Process | 20 | 11 | 20 | 14 | 60 | I
+24 | 30 | 100 | 40 | 55 | 2 | 2 | C
+IT3302 | Design and Analysis of
+Algorithms | 20 | 2 | 20 | 17 | S
+60 | 24 | 42 | 100 | 40 | 61 | 3 | 3 | B
+IT3303 | Discrete Mathematics | 20 | 17 | 20 | 15 | 60 | 24 | 26 | 100 | 40 | 58 | 3 | 3 | B
+IT3304 | Computer Organization and
+Architecture | 20 | 9 | 20 | I
+14 | 60 | 24 | 28 | 100 | 40 | 51 | 2 | 2 | C
+IT3307 | Universal Human Values | - | - | V
+50 | 38 | - | - | - | 50 | 20 | 38 | 2 | 2 | A
+IT3308 | Economics for Engineer | - | - | 50 | 42 | - | - | - | 50 | 20 | 42 | 2 | 2 | A
+IT3309 | Design and Analysis of
+Algorithms Lab | - | - | 25 | 20 | - | - | - | 25 | 10 | 20 | 1 | 1 | A
+IT3310 | Programming Lab-I | O
+- | - | 25 | 22 | - | - | - | 25 | 10 | 22 | 1 | 1 | A
+R
+Current Semester Performance |  |  |  |  |  | Cumulative Performance |  |  |  |  | 
+Total
+Marks
+Obtained | Total Max
+Marks | P
+Percentage | Credits | EGP | SGPA | Total
+Marks
+Obtained | Total Max
+Marks | Percentage | Credits | EGP | CGPA
+509 | 800 | 63.90 | 22 | 157 | 7.14 | 1474 | 2400 | 53.30 | 66 | 427 | 6.47

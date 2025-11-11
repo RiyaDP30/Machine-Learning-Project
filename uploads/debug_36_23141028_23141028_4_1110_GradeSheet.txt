@@ -1,0 +1,68 @@
+Government College of Engineering Karad
+~
+Vidyanagar, Dist. Satara, -415124, MAHARASHTRA ( INDIA )
+~
+PROVISIONAL GRADE CARD
+Student's Name:PAWAR ADITYA SHIVAJI Registration No:23141028
+Mother's Name :MANISHA ABC ID :693564147277
+Programme :BACHELOR OF TECHNOLOGY Semester :IV
+Department :INFORMATION TECHNOLOGY Examination :Summer-2025
+MSE ISE ESE TOTAL
+Course Course Earned
+Course Name Grade
+Code MAX SEC MAX SEC MAX MIN SEC MAX MIN SEC Credit Credit
+IOE3443 OE II SAP HANA - - 50 34 50 20 37 100 40 71 2 2 B+
+IMI3422 MDM II Basics of Image 20 16 20 6 60 24 28 100 40 50 2 2 C
+Processing for Healthcare
+IT3401 Theory of Computer Science 20 13 20 16 60 24 36 100 40 65 4 4 C+
+IT3402 Operating Systems 20 15 20 16 60 24 34 100 40 65 3 3 B+
+IT3403 Database Management 20 4 20 13 60 24 25 100 40 42 3 3 D
+Systems
+IT3406 Strategic Management - - 25 14 - - - 25 10 14 2 2 C
+IT3407 Professional Ethics - - 25 18 - - - 25 10 18 2 2 B
+IT3408 Programming Lab-II - - 50 42 50 20 41 100 40 83 2 2 A
+IT3409 Database Management - - 50 32 50 20 29 100 40 61 1 1 C+
+Systems Lab
+IT3410 Community Engagement - - 50 44 - - - 50 20 44 1 1 A
+Project
+IT3411 Environmental Science - - - - - - - - - - 0 0 PP
+Remarks : PASS (LYP)
+Current Semester Performance Cumulative Performance
+Total Total
+Total Max Total Max
+Marks Percentage Credits EGP SGPA Marks Percentage Credits EGP CGPA
+Marks Marks
+Obtained Obtained
+513 800 57.50 22 143 6.50 2023 3200 55.50 84 554 6.30
+Note: Percentage are calculated as per formula GPA= (% of marks X 0.1) + 0.75
+Grade Card No. :242511440031
+Result Date :
+Course
+Code | Course Name | MSE |  | ISE |  | ESE |  |  | TOTAL |  |  | Course
+Credit | Earned
+Credit | Grade
+ |  | MAX | SEC | MAX | SEC | MAX | MIN | SEC | MAX | MIN | SEC |  |  | 
+IOE3443 | OE II SAP HANA | - | - | 50 | 34 | 50 | 20 | 37 | 100 | 40 | 71 | 2 | 2 | B+
+IMI3422 | MDM II Basics of Image
+Processing for Healthcare | 20 | 16 | 20 | 6 | 60 | 24 | 28 | 100 | 40 | 50 | 2 | 2 | C
+IT3401 | Theory of Computer Science | 20 | 13 | 20 | 16 | 60 | 24 | 36 | 100 | 40 | 65 | 4 | 4 | C+
+IT3402 | Operating Systems | 20 | 15 | 20 | 16 | 60 | 24 | 34 | 100 | 40 | 65 | 3 | 3 | B+
+IT3403 | Database Management
+Systems | 20 | 4 | 20 | 13 | 60 | 24 | 25 | 100 | 40 | 42 | 3 | 3 | D
+IT3406 | Strategic Management | - | - | 25 | 14 | - | - | - | 25 | 10 | 14 | 2 | 2 | C
+IT3407 | Professional Ethics | - | - | 25 | 18 | - | - | - | 25 | 10 | 18 | 2 | 2 | B
+IT3408 | Programming Lab-II | - | - | 50 | 42 | 50 | 20 | 41 | 100 | 40 | 83 | 2 | 2 | A
+IT3409 | Database Management
+Systems Lab | - | - | 50 | 32 | 50 | 20 | 29 | 100 | 40 | 61 | 1 | 1 | C+
+IT3410 | Community Engagement
+Project | - | - | 50 | 44 | - | - | - | 50 | 20 | 44 | 1 | 1 | A
+IT3411 | Environmental Science | - | - | - | - | - | - | - | - | - | - | 0 | 0 | PP
+Current Semester Performance |  |  |  |  |  | Cumulative Performance |  |  |  |  | 
+Total
+Marks
+Obtained | Total Max
+Marks | Percentage | Credits | EGP | SGPA | Total
+Marks
+Obtained | Total Max
+Marks | Percentage | Credits | EGP | CGPA
+513 | 800 | 57.50 | 22 | 143 | 6.50 | 2023 | 3200 | 55.50 | 84 | 554 | 6.30

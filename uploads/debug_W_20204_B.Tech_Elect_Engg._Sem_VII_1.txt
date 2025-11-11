@@ -1,0 +1,51 @@
+Student Name : VIMALKUMAR RAVINDRA KAMBALE Regd. No. : 21131220
+Mother Name : YASHODA Semester : VII
+Programme : BACHELOR OF TECHNOLOGY Examination : Winter 2024
+Department : ELECTRICAL ENGINEERING
+Course Earned
+Sr.No. Course Code Course Name Grade
+Credits Credits
+1 EE2701 Computer Network & Communication 3 3 B+
+2 EE2742 Elective – III (Smart Grid) 3 3 B+
+Elective – IV (Generation planning and load
+3 EE2713 4 4 A
+forecasting)
+4 EE2704 Switchgear and Protection 3 3 B+
+5 EE2705 Electrical Drives 4 4 B+
+6 EE2706 Computer Network & Communication Lab 1 1 A
+7 EE2747 Elective – III Lab (Smart Grid Lab) 1 1 A
+Elective – IV Lab (Generation planning and load
+8 EE2718 1 1 A
+forecasting Lab)
+9 EE2709 Switchgear and Protection Lab 1 1 A
+10 EE2710 Electrical Drives Lab 1 1 A
+11 EE2711 Case Study 1 1 A
+12 EE2714 Industrial Training & Technical Presentation 1 1 A
+13 EE2725 AIoT Development Lab 0 0 PP
+Remarks : PASS
+Current Semester Performance Cummulative Performance
+Credits EGP SGPA Credits EGP CGPA
+24 203 8.46 142 1096 7.72
+Grade Card No. :242510070013
+Result Date:13-03-2025
+Sr.No. | Course Code | Course Name | Course
+Credits | Earned
+Credits | Grade
+1 | EE2701 | Computer Network & Communication | 3 | 3 | B+
+2 | EE2742 | Elective – III (Smart Grid) | 3 | 3 | B+
+3 | EE2713 | Elective – IV (Generation planning and load
+forecasting) | 4 | 4 | A
+4 | EE2704 | Switchgear and Protection | 3 | 3 | B+
+5 | EE2705 | Electrical Drives | 4 | 4 | B+
+6 | EE2706 | Computer Network & Communication Lab | 1 | 1 | A
+7 | EE2747 | Elective – III Lab (Smart Grid Lab) | 1 | 1 | A
+8 | EE2718 | Elective – IV Lab (Generation planning and load
+forecasting Lab) | 1 | 1 | A
+9 | EE2709 | Switchgear and Protection Lab | 1 | 1 | A
+10 | EE2710 | Electrical Drives Lab | 1 | 1 | A
+11 | EE2711 | Case Study | 1 | 1 | A
+12 | EE2714 | Industrial Training & Technical Presentation | 1 | 1 | A
+13 | EE2725 | AIoT Development Lab | 0 | 0 | PP
+Current Semester Performance |  |  | Cummulative Performance |  | 
+Credits | EGP | SGPA | Credits | EGP | CGPA
+24 | 203 | 8.46 | 142 | 1096 | 7.72

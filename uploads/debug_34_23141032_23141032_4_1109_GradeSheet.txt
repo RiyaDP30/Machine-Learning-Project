@@ -1,0 +1,84 @@
+Government College of Engineering Karad
+Vidyanagar, Dist. Satara, -415124, MAHARASHTRA ( INDIA )
+PROVISIONAL GRADE CARD
+L
+Student's Name:JAGADALE ROHAN BABAN Registration No:23141032
+A
+Mother's Name :SANGITA ABC ID :538217685929
+Programme :BACHELOR OF TECHNOLOGY Semester :III
+Department :INFORMATION TECHNOLOGY Examination :Winter-2024
+N
+MSE ISE ESE TOTAL
+Course Course Earned
+Course Name Grade
+Code MAX SEC MAX SEC MAX MIN SEC MAX MIN SEC Credit Credit
+O
+EX3304 MDM I (Electronic Circuits) 20 18 20 18 60 24 52 100 40 88 2 2 A
+IOE3331 OE I (AR/VR Application - - 50 47 50 20 50 100 40 97 3 3 A
+Development)
+IOE3332 OE I (AR/VR Application - - 25 22I25 10 21 50 20 43 1 1 A
+Development Lab)
+S
+IT3301 Probability and Random 20 19 20 17 60 24 48 100 40 84 2 2 A
+Process
+IT3302 Design and Analysis of 20 13 20 18 60 24 44 100 40 75 3 3 A
+Algorithms I
+IT3303 Discrete Mathematics 2V0 16 20 14 60 24 33 100 40 63 3 3 B
+IT3304 Computer Organization and 20 18 20 16 60 24 43 100 40 77 2 2 A+
+Architecture
+IT3307 Universal Human Valu O es - - 50 41 - - - 50 20 41 2 2 A
+IT3308 Economics for Engineer - - 50 38 - - - 50 20 38 2 2 B+
+IT3309 Design and Analysis of - - 25 20 - - - 25 10 20 1 1 A
+Algorithms Lab
+IT3310 ProgramminRg Lab-I - - 25 22 - - - 25 10 22 1 1 A
+Remarks : PASS
+PCurrent Semester Performance Cumulative Performance
+Total Total
+Total Max Total Max
+Marks Percentage Credits EGP SGPA Marks Percentage Credits EGP CGPA
+Marks Marks
+Obtained Obtained
+648 800 79.80 22 192 8.73 1987 2400 80.80 66 592 8.97
+Note: Percentage are calculated as per formula GPA= (% of marks X 0.1) + 0.75
+Grade Card No. :
+Result Date :
+Course
+Code | Course Name | MSE |  | ISE |  | ESE |  |  | TOTAL |  |  | Course
+Credit | Earned
+Credit | Grade
+ |  | MAX | SEC | MAX | SEC | MAX | MIN | SEC | MAX | N
+MIN | SEC |  |  | 
+EX3304 | MDM I (Electronic Circuits) | 20 | 18 | 20 | 18 | 60 | 24 | 52 | 100 | 40 | 88 | 2 | 2 | A
+IOE3331 | OE I (AR/VR Application
+Development) | - | - | 50 | 47 | 50 | 20 | 50 | 100 | 40 | 97 | 3 | 3 | A
+IOE3332 | OE I (AR/VR Application
+Development Lab) | - | - | 25 | 22 | 25 | 10 | O
+21 | 50 | 20 | 43 | 1 | 1 | A
+IT3301 | Probability and Random
+Process | 20 | 19 | 20 | 17 | 60 | I
+24 | 48 | 100 | 40 | 84 | 2 | 2 | A
+IT3302 | Design and Analysis of
+Algorithms | 20 | 13 | 20 | 18 | S
+60 | 24 | 44 | 100 | 40 | 75 | 3 | 3 | A
+IT3303 | Discrete Mathematics | 20 | 16 | 20 | 14 | 60 | 24 | 33 | 100 | 40 | 63 | 3 | 3 | B
+IT3304 | Computer Organization and
+Architecture | 20 | 18 | 20 | I
+16 | 60 | 24 | 43 | 100 | 40 | 77 | 2 | 2 | A+
+IT3307 | Universal Human Values | - | - | V
+50 | 41 | - | - | - | 50 | 20 | 41 | 2 | 2 | A
+IT3308 | Economics for Engineer | - | - | 50 | 38 | - | - | - | 50 | 20 | 38 | 2 | 2 | B+
+IT3309 | Design and Analysis of
+Algorithms Lab | - | - | 25 | 20 | - | - | - | 25 | 10 | 20 | 1 | 1 | A
+IT3310 | Programming Lab-I | O
+- | - | 25 | 22 | - | - | - | 25 | 10 | 22 | 1 | 1 | A
+R
+Current Semester Performance |  |  |  |  |  | Cumulative Performance |  |  |  |  | 
+Total
+Marks
+Obtained | Total Max
+Marks | P
+Percentage | Credits | EGP | SGPA | Total
+Marks
+Obtained | Total Max
+Marks | Percentage | Credits | EGP | CGPA
+648 | 800 | 79.80 | 22 | 192 | 8.73 | 1987 | 2400 | 80.80 | 66 | 592 | 8.97
